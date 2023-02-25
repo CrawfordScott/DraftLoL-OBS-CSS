@@ -1,0 +1,37 @@
+body { 
+    background-color: #00b140; 
+    margin: 0px auto; 
+    overflow: hidden; 
+}
+.roomTimerBar {
+	margin-bottom:10px;
+}
+
+.roomContainer .champSquareWide { 
+    filter: none; 
+    box-shadow: none; 
+}
+
+.roomContainer .roomTeamName { 
+    font-size:35px;
+}
+
+.burgerButton {
+    opacity:0%;
+    display:none;
+}
+
+.champsWithFilters {
+    display:none;
+}
+
+.roomContainer {
+    background-color:#00b140;
+    /*background-image: url("https://cdn.discordapp.com/attachments/1071006157650542673/1077604172385501264/saltirevlund.jpeg");*/
+    /*TRANSPARENCY COLOR 
+    background-color:rgba(0, 0, 0, 0);  */
+}
+
+.roomLock {
+    display:none;
+}
