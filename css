@@ -1,5 +1,5 @@
 body { 
-    background-color: #00b140; 
+    background-color:rgba(0, 0, 0, 0);
     margin: 0px auto; 
     overflow: hidden; 
 }
@@ -26,10 +26,9 @@ body {
 }
 
 .roomContainer {
-    background-color:#00b140;
-    /*background-image: url("https://cdn.discordapp.com/attachments/1071006157650542673/1077604172385501264/saltirevlund.jpeg");*/
-    /*TRANSPARENCY COLOR 
-    background-color:rgba(0, 0, 0, 0);  */
+    */background-image: url("https://cdn.discordapp.com/attachments/784215814948651019/1077042367317692416/draftlol_overlay_XDDD.png");*/
+    opacity: 0.0;
+    background-color:rgba(0, 0, 0, 0);
 }
 
 .roomLock {
